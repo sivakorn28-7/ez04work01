@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ez04work01</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="d">d</string>
+    <string name="c">c</string>
+    <string name="_1_hello_world_kotlin">1.ข้อใดคือคำสั่งที่ถูกต้องในการแสดงผลลัพธ์ให้ออกมาเป็น Hello World ในภาษา kotlin</string>
+    <string name="console_writeline_hello_world">Console.WriteLine(“Hello World”);</string>
+    <string name="println_hello_world">println(“Hello World”)</string>
+    <string name="system_out_printline_hello_world">System.out.printline(“Hello World”)</string>
+    <string name="cout_hello_world"><![CDATA[cout << “Hello World”;]]></string>
+    <string name="_2_5">2.ข้อใดคือการสร้างตัวแปรตัวเลขที่มีค่าเท่ากับ 5</string>
+    <string name="val_num_5">val num = 5</string>
+    <string name="num_5_int">num = 5 int</string>
+    <string name="num_5">num = 5</string>
+    <string name="int_num_5">int num = 5</string>
+    <string name="_3_operator">3.operator ใดใช้ในการรวมค่าสองค่า</string>
+    <string name="plus">+</string>
+    <string name="add">ADD</string>
+    <string name="star">*</string>
+    <string name="and"><![CDATA[&]]></string>
+    <string name="_4">4.ข้อใดคือการเรียกใช้ฟังค์ชั่น</string>
+    <string name="myfunction">myFunction()</string>
+    <string name="myfunction2">myFunction[]</string>
+    <string name="myfunction3">myFunction;</string>
+    <string name="myfunction4">(myFunction)</string>
+    <string name="_5_var">5.คำสั่ง var ทำหน้าที่อะไร</string>
+    <string name="type">ประกาศตัวแปรแบบไม่ระบุชนิด (type)</string>
+    <string name="view">แสดงข้อความลงบนหน้าจอ</string>
+    <string name="cal">คำนวณค่า</string>
+    <string name="func">ประกาศฟังก์ชัน</string>
+    <string name="ms">TODO</string>
+    <string name="ora">TODO</string>
+    <string name="jb">TODO</string>
+    <string name="go">go</string>
+    <string name="_6_kotlin">6.ภาษา Kotlin ถูกพัฒนาโดยบริษัทใด?</string>
+    <string name="_7">7. คำสั่งใดใช้ในการตรวจสอบเงื่อนไข</string>
+    <string name="if07">if</string>
+    <string name="auto07">auto</string>
+    <string name="select07">select</string>
+    <string name="fun07">Fun</string>
+    <string name="_8">8.คำสั่งใดใช้ในการทำการวนลูปที่ไม่ระบุจำนวนรอบ</string>
+    <string name="while08">while</string>
+    <string name="catch08">catch</string>
+    <string name="repeat08">repeat</string>
+    <string name="unit08">Unit</string>
+    <string name="qcode9">TODO</string>
+    <string name="_9_5_input">9.หากใส่เลข 5 ไปใน input ผลที่รันออกมาจะเป็นอย่างไร</string>
+    <string name="_10_7_input">10.หากใส่เลข 7 ไปใน input ผลที่รันจะออกมาเป็นแบบใด</string>
+    <string name="btnnext">เลือกคำตอบ</string>
+</resources>
